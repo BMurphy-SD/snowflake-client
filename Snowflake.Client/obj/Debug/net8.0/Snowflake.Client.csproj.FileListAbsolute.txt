@@ -1,0 +1,13 @@
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\bin\Debug\net8.0\Snowflake.Client.deps.json
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\bin\Debug\net8.0\Snowflake.Client.dll
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\bin\Debug\net8.0\Snowflake.Client.pdb
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\Snowflake.Client.csproj.AssemblyReference.cache
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\Snowflake.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\Snowflake.Client.AssemblyInfoInputs.cache
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\Snowflake.Client.AssemblyInfo.cs
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\Snowflake.Client.csproj.CoreCompileInputs.cache
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\Snowflake.Client.sourcelink.json
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\Snowflake.Client.dll
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\refint\Snowflake.Client.dll
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\Snowflake.Client.pdb
+C:\Users\buddy\source\repos\BMurphy-SD\snowflake-client\Snowflake.Client\obj\Debug\net8.0\ref\Snowflake.Client.dll

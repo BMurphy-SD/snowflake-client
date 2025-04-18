@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Snowflake.Client/.vs/Snowflake.Client
+/Snowflake.Client/bin/Debug/net8.0
