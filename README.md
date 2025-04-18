@@ -1,2 +1,2 @@
 # snowflake-client
-Snowflake Client with Stored Procedur support
+Snowflake Client with Stored Procedure support
